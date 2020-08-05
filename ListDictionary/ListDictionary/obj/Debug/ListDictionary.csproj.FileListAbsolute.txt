@@ -1,0 +1,7 @@
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\bin\Debug\ListDictionary.exe.config
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\bin\Debug\ListDictionary.exe
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\bin\Debug\ListDictionary.pdb
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\obj\Debug\ListDictionary.csprojAssemblyReference.cache
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\obj\Debug\ListDictionary.csproj.CoreCompileInputs.cache
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\obj\Debug\ListDictionary.exe
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\obj\Debug\ListDictionary.pdb

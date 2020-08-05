@@ -1,0 +1,3 @@
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\obj\Debug\ListDictionarys.csproj.CoreCompileInputs.cache
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\obj\Debug\ListDictionary.exe
+D:\DotNet Assignment 05-08\ListDictionary\ListDictionary\obj\Debug\ListDictionary.pdb
